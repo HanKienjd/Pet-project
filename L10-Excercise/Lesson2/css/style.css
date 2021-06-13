@@ -203,13 +203,10 @@ select {
 }
 
 /* End of register */
+
+/* Contact */
 .form-group2 {
     margin: 10px;
-}
-
-input[type = "text"] {
-    width: 200px;
-    height: 30px;
 }
 
 .right-aside__form .form-group2 {
@@ -225,4 +222,30 @@ input[type = "text"] {
 .button-group3 button {
     width: 100px;
 }
+
+/* End of contact */
+
+/* Help */
  
+ol.olist {list-style-type: upper-roman;}
+
+.right-aside__list {
+    margin-left: 80px;
+}
+
+.right-aside__list p {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.olist li {
+    margin-left: 40px;
+}
+
+ul.ulist {list-style-type: circle;}
+
+.ulist li {
+    margin-left: 40px;
+}
+
+/* End of Help */
