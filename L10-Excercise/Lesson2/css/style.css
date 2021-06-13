@@ -249,3 +249,27 @@ ul.ulist {list-style-type: circle;}
 }
 
 /* End of Help */
+
+/* Introduction */
+.right-aside__form marquee {
+    padding-top: 80px;
+    font-size: 30px;
+}
+
+.underline2:before {
+    content: "";
+    position: absolute;
+    bottom: 30vh;
+    left: 94vh;
+    width: 40%;
+    height: 3px;
+    border-bottom: 3px solid white;
+}
+
+.right-aside__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    width: 100%;
+}
