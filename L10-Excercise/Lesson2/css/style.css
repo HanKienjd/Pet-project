@@ -201,3 +201,28 @@ select {
 .button-group2 button {
     width: 100px;
 }
+
+/* End of register */
+.form-group2 {
+    margin: 10px;
+}
+
+input[type = "text"] {
+    width: 200px;
+    height: 30px;
+}
+
+.right-aside__form .form-group2 {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+}
+
+.button-group3 {
+    margin-left: 70px;
+}
+
+.button-group3 button {
+    width: 100px;
+}
+ 
